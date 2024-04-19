@@ -1,0 +1,6 @@
+apache-airflow==2.9.0
+pandas
+scikit-learn
+joblib
+email-validator>= 2.0
+apache-airflow-providers-docker
